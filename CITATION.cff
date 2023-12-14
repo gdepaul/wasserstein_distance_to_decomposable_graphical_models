@@ -3,16 +3,16 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Gregory"
   given-names: "Depaul"
-  orcid: # "https://orcid.org/0000-0000-0000-0000"
+#  orcid:  "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Metya"
   given-names: "Nilava"
-  orcid: # "https://orcid.org/0000-0000-0000-0000"
+#  orcid: # "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Ikenna"
   given-names: "Nometa"
-  orcid: # "https://orcid.org/0000-0000-0000-0000"
+#  orcid: # "https://orcid.org/0000-0000-0000-0000"
 title: "Wasserstein Distance to Decomposable Graphical Models"
 version: 1.0.4
-doi: #10.5281/zenodo.1234
+# doi: #10.5281/zenodo.1234
 date-released: 2023-12-14
 url: "https://github.com/gdepaul/wasserstein_distance_to_decomposable_graphical_models/"
 preferred-citation:
@@ -20,22 +20,22 @@ preferred-citation:
   authors:
 - family-names: "Gregory"
   given-names: "Depaul"
-  orcid: # "https://orcid.org/0000-0000-0000-0000"
+ # orcid: # "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Hosten"
   given-names: "Serkan"
-  orcid: # "https://orcid.org/0000-0000-0000-0000"
+ # orcid: # "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Metya"
   given-names: "Nilava"
-  orcid: # "https://orcid.org/0000-0000-0000-0000"
+#  orcid: # "https://orcid.org/0000-0000-0000-0000"
 - family-names: "Ikenna"
   given-names: "Nometa"
-  orcid: # "https://orcid.org/0000-0000-0000-0000"
-  doi: # "10.0000/00000"
-  journal: # "Journal Title"
-  month: #9
-  start: # 1 # First page number
-  end: # 10 # Last page number
+ # orcid: # "https://orcid.org/0000-0000-0000-0000"
+#  doi: # "10.0000/00000"
+#  journal: # "Journal Title"
+#  month: #9
+#  start: # 1 # First page number
+#  end: # 10 # Last page number
   title: "Polar Degrees of Toric Models"
-  issue: #1
-  volume: # 1
-  year: # 2021
+#  issue: #1
+#  volume: # 1
+#  year: # 2021
