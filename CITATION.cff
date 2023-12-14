@@ -31,11 +31,11 @@ preferred-citation:
   given-names: "Nometa"
   orcid: # "https://orcid.org/0000-0000-0000-0000"
   doi: # "10.0000/00000"
-  journal:# "Journal Title"
-  month:#9
-  start:# 1 # First page number
-  end:# 10 # Last page number
+  journal: # "Journal Title"
+  month: #9
+  start: # 1 # First page number
+  end: # 10 # Last page number
   title: "Polar Degrees of Toric Models"
   issue: #1
-  volume:# 1
-  year:# 2021
+  volume: # 1
+  year: # 2021
